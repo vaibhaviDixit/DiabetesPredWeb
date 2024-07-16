@@ -1,7 +1,18 @@
+# Diabetes Predictor
+This tool leverages machine learning algorithms to analyze patient data and predict the likelihood of diabetes. It is designed to assist healthcare professionals in making early diagnoses and gives treatment plans.
+
+## Features
+- Machine Learning Model: Utilizes a trained machine learning model to predict diabetes based on patient metrics.
+- User-Friendly Interface: Provides an intuitive interface for inputting patient data and receiving real-time predictions.
+
+## Technologies Used
+- Programming Language: Python
+- Libraries: Pandas, OS, Webbrowser
+- Machine Learning Algorithm: DecisionTreeClassifier
+
 # Requirements
 - python 3
 - install django (pip install django)
-- modules: sklearn, pandas, os
 
 # Steps to run project:
 - Navigate to project directory
